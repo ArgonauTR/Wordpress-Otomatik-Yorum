@@ -3,7 +3,8 @@ Wordpress İçin Otomatik Yorum Yardımcısı
 
 
 ------------------------------
-Kullanım Kılavuzu
+Kullanım Kılavuzu:
+
 1-) Dosyayı İndirin.
 2-) WP Sitenin bulunduğu sunucuya dosyaları atın.
 3-) Zip den çıkartın.
@@ -13,3 +14,9 @@ Kullanım Kılavuzu
  
  -------------------------
  Otomaitk olarak ip, kullanıcı adı, eposta ve diğer bilgileri ayarlar. Sadece yorum girmeniz yeter. 
+ 
+ -------------------------
+ KULLANIM VİDEOSU
+ 
+ 
+ https://www.youtube.com/embed/6MQsWdBdEYE?autoplay=1
