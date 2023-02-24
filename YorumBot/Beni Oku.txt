@@ -1,0 +1,10 @@
+Merhaba
+
+Bu sistem çok basit ve çok az koda sahiptir. SEO ve Görünüm için sahte bir şekilde wordpress yorumu kasmanızı sağlar. Parayla almaktan ya da kendiniz yapmaktan çok daha kolaydır.
+
+Ip, Eposta ve Kullanıcı Adını kendisi oluşturur. Her bilgisini doldurur. Kendisi onaylı listeye ekler.
+
+baglan.php dosyasını düzenlemeniz yeterlidir. Orada 4 tane ayar değiştireceksiniz. Başka ayar yapmanıza gerek yoktur.
+
+Osman ÖZER
+osmanozer4@gmail.com
