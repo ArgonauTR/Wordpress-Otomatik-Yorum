@@ -9,6 +9,7 @@ session_start(); // Oturum açma işlemi
 ob_start(); // Otrum Açma İşlemi
 
 require_once 'baglan.php'; // Veritabanı bağlantısı
+include 'function.php'; // fonskiyonları dahil ediyoruz.
 
 
 if(@$_SESSION['kadi']=="admin"){ ?>
